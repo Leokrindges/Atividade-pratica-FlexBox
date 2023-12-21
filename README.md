@@ -5,7 +5,7 @@
 <img src="./assets/atividade 1.png" alt="Tela atividade 1">
  
 <h2>ATIVIDADE 2</h2>
-<img src="../assets/atividade 2.png" alt="Tela atividade 2">
+<img src="./assets/atividade 2.png" alt="Tela atividade 2">
 
 <h2>ATIVIDADE 3</h2>
 <img src="#" alt="Tela atividade 3">
