@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+}
+
+.container {
+    width: 100wh;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    background-color: beige;
+    align-items: center;
+}
+
+.bola1, .bola2 {
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    border-radius: 99999px;
+}
+
+.bola2 {
+    background-color: blue;
+}

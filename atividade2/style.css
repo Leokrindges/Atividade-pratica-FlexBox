@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+}
+
+.container {
+    width: 100wh;
+    height: 50vh;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+    
+}
+
+.bola {
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    border-radius: 99999px;
+}
+
+.quadrado {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    align-self: flex-end;
+    
+}
