@@ -8,4 +8,4 @@
 <img src="./assets/atividade 2.png" alt="Tela atividade 2">
 
 <h2>ATIVIDADE 3</h2>
-<img src="#" alt="Tela atividade 3">
+<img src="./assets/atividade 3.png" alt="Tela atividade 3">
