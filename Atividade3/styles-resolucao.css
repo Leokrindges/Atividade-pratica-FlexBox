@@ -1,0 +1,19 @@
+#header {
+    display: flex;
+    align-items: center;
+    flex-flow:row wrap;
+    justify-content: space-between;
+}
+
+.profile-name {
+    flex: 1;
+}
+
+#footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+#buttons {
+    align-self: center;
+}
